@@ -1,0 +1,180 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "combine-schedulers",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/combine-schedulers",
+          "name" : "combine-schedulers"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "882ac01eb7ef9e36d4467eb4b1151e74fcef85ab",
+            "version" : "0.9.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "combine-schedulers"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-case-paths",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-case-paths",
+          "name" : "swift-case-paths"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "f623901b4bcc97f59c36704f81583f169b228e51",
+            "version" : "0.13.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-case-paths"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-clocks",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-clocks",
+          "name" : "swift-clocks"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "20b25ca0dd88ebfb9111ec937814ddc5a8880172",
+            "version" : "0.2.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-clocks"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-collections",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-collections",
+          "name" : "swift-collections"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "937e904258d22af6e447a0b72c0bc67583ef64a2",
+            "version" : "1.0.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-collections"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-composable-architecture",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-composable-architecture",
+          "name" : "swift-composable-architecture"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "1b998c43b3b3505876db6f66e03243dd2453e93a",
+            "version" : "0.50.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-composable-architecture"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-custom-dump",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-custom-dump",
+          "name" : "swift-custom-dump"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "dd86159e25c749873f144577e5d18309bf57534f",
+            "version" : "0.8.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-custom-dump"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-dependencies",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-dependencies",
+          "name" : "swift-dependencies"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "8282b0c59662eb38946afe30eb403663fc2ecf76",
+            "version" : "0.1.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-dependencies"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-identified-collections",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swift-identified-collections",
+          "name" : "swift-identified-collections"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "ad3932d28c2e0a009a0167089619526709ef6497",
+            "version" : "0.7.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-identified-collections"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swiftui-navigation",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/swiftui-navigation",
+          "name" : "swiftui-navigation"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "270a754308f5440be52fc295242eb7031638bd15",
+            "version" : "0.6.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swiftui-navigation"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "xctest-dynamic-overlay",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+          "name" : "xctest-dynamic-overlay"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "62041e6016a30f56952f5d7d3f12a3fd7029e1cd",
+            "version" : "0.8.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "xctest-dynamic-overlay"
+      }
+    ]
+  },
+  "version" : 5
+}
